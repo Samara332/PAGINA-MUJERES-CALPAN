@@ -1,0 +1,46 @@
+.header {
+    width:70%;
+    padding: 15%;
+    height: 500px;
+    text-align: center;
+    /* background: white; */
+    color:#f1f1f1;
+  }
+  .cheadh{
+    background-color: black;
+    opacity: 0.7;
+    position: relative;
+    /* padding: 100px; */
+    top: -50px;
+    height: 100%;
+    text-align: center;
+  }
+  .chead{
+    background-color: black;
+    opacity: 0.7;
+    padding: 10px;
+    }
+  .header h1 {
+    font-size: 50px;
+    }
+    
+/* Footer */
+.footer {
+    position: absolute;
+    bottom:0px;
+    width:100%;
+    max-height: 100px;
+    padding: 20px;
+    text-align: center;
+    background: #2A2A2A;
+    margin-top: 20px;
+    border-top: 1px solid red;
+  }
+  .footercontent{
+    position: relative;
+    max-height: 100px;
+    top:10%;
+    text-align: center;
+    line-height: 4px;
+    color: #f2f2f2;
+  }
